@@ -1,3 +1,4 @@
+# 🍬 Doce Terapia – Sistema de Controle de Estoque
 <p align="center">
   Um sistema de <b>gerenciamento de pedidos e estoque de ingredientes</b>, para a doceria <b>Doce Terapia</b>, com o objetivo de entregar um sistema mais <b>rápido</b>, <b>eficiente</b> e <b>acessível</b>.
 </p>
